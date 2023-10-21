@@ -1,0 +1,2 @@
+this is new file to understand how staging works
+i came back and complted the file
